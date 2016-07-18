@@ -227,6 +227,8 @@ A curated list of awesome Java frameworks, libraries and software.
 * [Redisson](https://github.com/mrniko/redisson) - Allows for distributed and scalable data structures on top of a Redis server.
 * [Speedment](https://github.com/speedment/speedment) - A database access library that utilizes the Java 8 Stream API for querying.
 * [Vibur DBCP](http://www.vibur.org/) - JDBC connection pool library which offers advanced performance monitoring capabilities.
+* [ElSql](https://github.com/OpenGamma/ElSql) - Simple DSL query templating engine.
+* [Sql2o](http://www.sql2o.org/) - Easy database query library.
 
 ## Data structures
 
